@@ -1,4 +1,6 @@
-# bachelorprojekt
-Repository containing a pipeline script produced for my bachelor's thesis project.
-The LULC_notebook_example.ipynb contain an example notebook for the project.
-The pipeline4.py contain the script used for running a larger version of the project, and some plotting functions. It is quite messy though so i recommend going through the notebook.
+# Predicting land-use and land-cover using Machine Learning
+Repository containing a pipeline script and a notebook.
+
+The notebook example displays a small example of the pipeline used for larger runs.
+
+Some of the code was forked from github.com/sentinel-hub/eo-learn and modified to work with my data and circumstances. Much of the data had to go through a preparation process using various GIS tools and other software.
